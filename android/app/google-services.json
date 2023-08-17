@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074938912751",
+    "project_id": "ocrapp-226e4",
+    "storage_bucket": "ocrapp-226e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074938912751:android:b8c030fac13d4dffdda01a",
+        "android_client_info": {
+          "package_name": "com.example.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074938912751-aeld6c8jh3vkqtpu8stqk2c7drv8fplh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRQNN4S5QEBjoBe9OsVB1lqKiaRxKBH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074938912751-aeld6c8jh3vkqtpu8stqk2c7drv8fplh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074938912751-0jepa1v95iurbcvecn69vkv9i7tds9cc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "l"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
