@@ -1,16 +1,16 @@
 # ocr
 
-A new Flutter project.
+## `Requirement (Just an overview):`
 
-## Getting Started
+- Build an Invoice Scanner App that scans an invoice, parses the information, and stores them into a list.
 
-This project is a starting point for a Flutter application.
+## `Current Status:`
 
-A few resources to get you started if this is your first Flutter project:
+- Invoice Scanning and Information Parsing completed.
+- Implemented Login with email & password using Firebase.
+- The invoice will get saved in the list when the user is logged In.
+- Transaction History (List) is completed, it is showing all scanned invoices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## `Required features:`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This app is working only with the latest android versions, it should also work on older Android devices.
